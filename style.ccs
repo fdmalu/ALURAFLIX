@@ -1,0 +1,16 @@
+body{
+background-color: #ffa0e7ff
+color#00e5e5
+}
+header{
+border-bottom : solid 2px rgba(138, 188, 245, 1)
+padding 20px
+font-size 35px
+color #ffa0e7ff
+
+}
+
+h1{
+color:pink
+}
+
